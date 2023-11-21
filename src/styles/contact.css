@@ -1,0 +1,20 @@
+* {
+    background-color: #212121;
+    color: #fff;
+    font-family: 'Verdana', sans-serif;
+}
+
+/* main content styling */
+
+body h1 {
+    text-align: justify;
+    font-size: 40px;
+    margin: 20px 0px;
+    padding: 0px 20px;
+}
+
+body p {
+    text-align: justify;
+    margin: 20px 0px;
+    padding: 0px 20px;
+}

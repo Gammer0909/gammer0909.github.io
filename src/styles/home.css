@@ -1,0 +1,64 @@
+* {
+    background-color: #212121;
+    color: #fff;
+    font-family: 'Verdana', sans-serif;
+}
+
+/* Main Content Styling */
+body .main h1 {
+    text-align: justify;
+    font-size: 40px;
+    margin: 20px 0px;
+    padding: 0px 20px;
+}
+
+body .main h1 span {
+    background: linear-gradient(150deg, #74a4ff, #206eff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    color: transparent;
+}
+
+body .main h2 {
+    text-align: justify;
+    font-size: 30px;
+    margin: 20px 0px;
+    padding: 0px 20px;
+}
+
+body .main p {
+    text-align: center;
+    font-size: 18px;
+    margin: 20px 0px;
+}
+
+body .main ul {
+    font-size: 18px;
+    margin: 20px 0px;
+    list-style: none;
+}
+
+body .main ul li:nth-child(even) {
+    text-align: right;
+    margin-right: 20em;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+body .main ul li:nth-child(odd) {
+    text-align: left;
+    margin-left: 20em;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+body .main .half-spacer {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+body .main .spacer {
+    margin-top: 200px;
+    margin-bottom: 200px;
+}
