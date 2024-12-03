@@ -12,6 +12,13 @@ body h1 {
     padding: 0px 20px;
 }
 
+body ul {
+    text-align: justify;
+    font-size: 18px;
+    margin: 25px 0px;
+    padding: 0px 20px;
+}
+
 body h2 {
     text-align: justify;
     font-size: 30px;
@@ -20,13 +27,8 @@ body h2 {
 }
 
 body p {
-    text-align: center;
+    text-align: justify;
     font-size: 18px;
     margin: 20px 0px;
-}
-
-body .main ul {
-    font-size: 18px;
-    margin: 20px 0px;
-    list-style: none;
+    padding: 0px 20px;
 }
